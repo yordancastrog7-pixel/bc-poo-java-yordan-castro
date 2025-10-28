@@ -4,7 +4,7 @@
 
 ---
 
-### ☕ Objeto Principal: Pedido
+### Objeto Principal: Pedido
 - **¿Qué es?:** Representa la solicitud de consumo que realiza un cliente en la cafetería.  
 - **Justificación:** Es el elemento central que conecta a las personas, los productos y las mesas.  
 - **Atributos identificados:** número, fecha, cliente, productos, total, estado.  
@@ -12,7 +12,7 @@
 
 ---
 
-### 👤 Objeto 2: Persona
+### Objeto 2: Persona
 - **¿Qué es?:** Individuo que interactúa dentro de la cafetería, ya sea cliente o empleado (barista, mesero).  
 - **Justificación:** Permite representar a todos los actores humanos del negocio sin separar en múltiples clases.  
 - **Atributos identificados:** nombre, rol, identificación, contacto, turno.  
@@ -20,7 +20,7 @@
 
 ---
 
-### 🍰 Objeto 3: Producto
+### Objeto 3: Producto
 - **¿Qué es?:** Cualquier artículo disponible para la venta, como bebidas, postres o desayunos.  
 - **Justificación:** Los pedidos se componen de productos, por lo que son esenciales para el funcionamiento del negocio.  
 - **Atributos identificados:** nombre, categoría, precio, stockDisponible, descripción.  
@@ -28,7 +28,7 @@
 
 ---
 
-### 🪑 Objeto 4: Mesa
+### Objeto 4: Mesa
 - **¿Qué es?:** Espacio físico asignado a los clientes para consumir sus pedidos.  
 - **Justificación:** Permite controlar la disponibilidad y la ubicación de los pedidos dentro del local.  
 - **Atributos identificados:** número, capacidad, estado (libre, ocupada, reservada), ubicación.  
@@ -36,7 +36,7 @@
 
 ---
 
-### 🏠 Objeto 5: Cafeteria
+### Objeto 5: Cafeteria
 - **¿Qué es?:** Representa el sistema general que administra los pedidos, productos, mesas y personas.  
 - **Justificación:** Sirve como punto de control central para coordinar la operación del negocio.  
 - **Atributos identificados:** nombre, dirección, listaDePedidos, listaDeProductos, listaDePersonas, listaDeMesas.  
@@ -64,3 +64,4 @@
 - Evitar repetir información entre los objetos **Persona** y **Pedido**.  
 - Elegir qué atributos debía tener cada clase sin que se solaparan responsabilidades.  
 - Mantener el modelo claro y aplicable para la programación orientada a objetos.
+
