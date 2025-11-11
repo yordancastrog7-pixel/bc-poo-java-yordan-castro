@@ -8,7 +8,7 @@
 ##  Estructura del Repositorio
 - `semana-01/`: Introducción a POO  
 - `semana-02/`: Clases y Objetos  
-- `semana-03/`: Encapsulación y Constructores  
+- `semana-03/`: Encapsulación y constructores  
 - `semana-04/`: Herencia  
 
 ## Cómo Ejecutar
