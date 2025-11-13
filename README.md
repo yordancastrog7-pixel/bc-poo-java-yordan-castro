@@ -6,10 +6,10 @@
 - **Instructor:** Erick Grandos
 
 ##  Estructura del Repositorio
-- `semana-01/`: Introducción a POO  
+- `semana-01/`: Introducción a POO aplicados al dominio de una cafetería, identificando objetos del mundo real y modelándolos en Java. 
 - `semana-02/`: Clases y Objetos  
-- `semana-03/`: Encapsulación y constructores  
-- `semana-04/`: Herencia  
+- `semana-03/`:  
+- `semana-04/`: 
 
 ## Cómo Ejecutar
 ```bash

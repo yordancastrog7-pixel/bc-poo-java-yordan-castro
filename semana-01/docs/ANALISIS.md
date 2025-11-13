@@ -62,6 +62,6 @@
 
 ## 4. Dificultades Encontradas
 - Evitar repetir información entre los objetos **Persona** y **Pedido**.  
-- Elegir qué atributos debía tener cada clase sin que se solaparan responsabilidades.  
+- Elegir qué atributos debía tener cada clase sin que se mezclaran responsabilidades.  
 - Mantener el modelo claro y aplicable para la programación orientada a objetos.
 
